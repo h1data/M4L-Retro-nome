@@ -7,3 +7,5 @@ see [releases](https://github.com/h1data/M4L-Retro-nome/releases) for old versio
 ## What is this?
 A simple Max for Live visualization of the classic metronome.
 
+## Known issues
+see [Issues](https://github.com/h1data/M4L-Retro-nome/issues?q=)
