@@ -1,7 +1,9 @@
-A simple visualization of the classic metronome.
+# Retro-nome
+![thumbnail of Retro-nome device](img/retronome.gif)
+## Download
+https://maxforlive.com/library/device/6723/retro-nome<br>
+see [releases](https://github.com/h1data/M4L-Retro-nome/releases) for old versions
 
-Changes in version 1.0.2 (May 21, 2022)
-- Fixed an issue where the device may display wrong number of bars and beats with certain Time Signature Changes in the Arrangement View.
+## What is this?
+A simple Max for Live visualization of the classic metronome.
 
-Changes in version 1.0.1 (November 13, 2021)
-- Renovated drawing function from lcd to jsui.
