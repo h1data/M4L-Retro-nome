@@ -11,4 +11,4 @@ A simple Max for Live visualization of the classic metronome.
 - Ableton Live 9.7.7 / Cycling '74 Max 7.3.5 or later
  
 ## Known issues
-see [Issues](https://github.com/h1data/M4L-Retro-nome/issues?q=)
+see [Issues](https://github.com/h1data/M4L-Retro-nome/issues?q=is%3Aissue+state%3Aopen+OR+label%3Awontfix)
